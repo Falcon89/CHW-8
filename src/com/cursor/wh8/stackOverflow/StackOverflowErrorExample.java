@@ -1,5 +1,7 @@
 package com.cursor.wh8.stackOverflow;
-
+/**
+ * Created by Vasyl Kachala on 14.07.2019.
+ */
 public  class StackOverflowErrorExample {
     public static class StackOError {
         StackOError stack = new StackOError();
