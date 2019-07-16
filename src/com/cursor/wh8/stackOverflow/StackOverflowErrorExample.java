@@ -1,4 +1,4 @@
-package com.cursor.wh7;
+package com.cursor.wh8.stackOverflow;
 
 public  class StackOverflowErrorExample {
     public static class StackOError {
